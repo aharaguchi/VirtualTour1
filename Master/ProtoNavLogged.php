@@ -75,7 +75,6 @@
 			echo 
 			'<h2>Logged in as : '.$_SESSION['username'].'</h2>'
 			.'<ul>
-			<li><a href="account.php">User controls</a></li>
 			<li><a href="startRun.php">Logout</a></li>
 			';
 		} else {
