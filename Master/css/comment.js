@@ -13,7 +13,6 @@ function form_validate(){
 			alert(formValue);
 			return false;
 	} else {
-			alert("correct");
 			return true;
 	}
 }
