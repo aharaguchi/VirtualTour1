@@ -17,7 +17,7 @@ include("ProtoNavLogged.php");
 		<div class="innerContainer">
 		<div class="marginMaker">
 			<h1>NorthWest (NW)</h1><br/>
-			<img src="images/building.png" alt="building picture"/>
+			<img src="buildingpics/NWandNE/IMG_20170410_152354 - Copy.jpg" alt="building picture"/>
 			<p>This is a small section of the campus containing a machine shop (NW6) and some trade related buildings such as the painting/glazing building (NW3). This section also contain a few offices in NW1. The new proposed student union is planned to be placed around here if the referedum goes through.</p>
 		</div>
 		<div class="buildingsTable">
@@ -37,7 +37,7 @@ include("ProtoNavLogged.php");
 	<div class="innerContainer">
 		<div class="marginMaker">
 			<h1>NorthEast (NE)</h1><br/>
-			<img src="images/building.png" alt="building picture"/>
+			<img src="buildingpics/NWandNE/IMG_20170410_152836 - Copy.jpg" alt="building picture"/>
 			<p>This is the main trades education building. The Northeast building contains many different sections - it's mostly well known for being the "official" entrance to BCIT - NE1. Architecture classes are taken in the Northeast buildings, and there are many displays demonstrating their work. There are many workshop rooms and lab rooms for electronics and fabrication, as well as machinery. There are several northeast building, going from NE1 to NE28 (but only 19 buildings in total). Where they all are is a mystery to most students and staff. Some of the buildings are reserved specifically for storage an tools, or offices for the faculty. There's little choices in term of food - the most notable place is in NE1, where there is a small cafeteria and a restaurant, as well as The Stop convenience store.
 </p>
 		</div>
@@ -78,7 +78,7 @@ include("ProtoNavLogged.php");
 	<div class="innerContainer">
 		<div class="marginMaker">
 			<h1>SouthWest (SW)</h1><br/>
-			<img src="images/building.png" alt="building picture"/>
+			<img src="buildingpics/SW1/thumb.jpg" alt="building picture"/>
 			<p>The southwest buildings are the most well known throughout the campus. It serves as the other "main entrance" to the BCIT campus, and has many services that it provides. The disability centre, Financial aid, aboriginal services, International student services, the Registrar's office is also in SW 1. A lot of part time courses are also held in the SW buildings, and it comes with several good sized classrooms. The buildings have a coffee shop, a lounge, study rooms, study areas, and much more. The forestry program and the business students tend to frequent these buildings. If your classes are in the South side of the campus and you have lectures, chances are that at least one of your lectures are held in here. </p>
 		</div>
 		<div class="buildingsTable">
@@ -100,16 +100,8 @@ include("ProtoNavLogged.php");
 	<div class="innerContainer">
 		<div class="marginMaker">
 			<h1>SouthEast (SE)</h1><br/>
-			<img src="images/building.png" alt="building picture"/>
-			<p>The SE sector of BCIT is the heart and hub of technology.<br/>
-			Most of the computer labs are in this sector. SE 14 is the campus library, where students can find many resources, sleep pods, the learning commons, and the 24hr studyspace &mdash; the Eh-Pod.<br/>
-			Around SE9 to SE12 is the main Tim Hortons on campus, and the all day breakfast centre; The stand is across from the Tim Hortons.<br/>
-
-			SE12 is the computing labs and the nursing school. This large complex houses many different rooms for the CST program.<br/>
-			<br/>
-			At SE16 is the gym. If you are slacking off at the machines, a certain someone will be very dissapointed at you. Do NOT slack off on the eliptical to watch TV!<br/>
-			The rest of the sector is composed of mostly classrooms and lecture halls.<br/>
-			&nbsp;	
+			<img src="buildingpics/SE2/IMG_20170405_163359 - Copy.jpg" alt="building picture"/>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</p>
 		</div>
 		<div class="buildingsTable">

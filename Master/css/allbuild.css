@@ -33,6 +33,7 @@ div.contentPane div.innerContainer div.marginMaker{
 	width:90%;
 	background-color:#DDD;
 	overflow-Y:auto;
+	overflow-X:hidden;
 }
 div.contentPane div.innerContainer div.marginMaker>*{
 	display:inline-block;
