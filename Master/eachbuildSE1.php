@@ -32,7 +32,8 @@ include("ProtoNavLogged.php");
 			<div class="buildingImages">
 		<div class="mapImage">
 			<div class="divBorders">
-				<img src="buildingpics/NWandNE/IMG_20170410_153412.jpg" alt="map image"/>
+				<img src="buildingpics/NWandNE/IMG_20170410_153452 - Copy.jpg" alt="map image"/>
+				<img src="buildingpics/NWandNE/IMG_20170410_153050 - Copy.jpg" alt="map image"/>
 			</div>
 		</div>
 		<div class="galleryImages galleryBox">
