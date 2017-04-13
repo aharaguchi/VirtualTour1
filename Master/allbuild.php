@@ -79,7 +79,7 @@ include("ProtoNavLogged.php");
 		<div class="marginMaker">
 			<h1>SouthWest (SW)</h1><br/>
 			<img src="images/building.png" alt="building picture"/>
-			<p>This section contains the main entrance building right off </p>
+			<p>The southwest buildings are the most well known throughout the campus. It serves as the other "main entrance" to the BCIT campus, and has many services that it provides. The disability centre, Financial aid, aboriginal services, International student services, the Registrar's office is also in SW 1. A lot of part time courses are also held in the SW buildings, and it comes with several good sized classrooms. The buildings have a coffee shop, a lounge, study rooms, study areas, and much more. The forestry program and the business students tend to frequent these buildings. If your classes are in the South side of the campus and you have lectures, chances are that at least one of your lectures are held in here. </p>
 		</div>
 		<div class="buildingsTable">
 			<table>
