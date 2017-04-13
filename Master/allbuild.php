@@ -101,7 +101,15 @@ include("ProtoNavLogged.php");
 		<div class="marginMaker">
 			<h1>SouthEast (SE)</h1><br/>
 			<img src="images/building.png" alt="building picture"/>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<p>The SE sector of BCIT is the heart and hub of technology.<br/>
+			Most of the computer labs are in this sector. SE 14 is the campus library, where students can find many resources, sleep pods, the learning commons, and the 24hr studyspace &mdash; the Eh-Pod.<br/>
+			Around SE9 to SE12 is the main Tim Hortons on campus, and the all day breakfast centre; The stand is across from the Tim Hortons.<br/>
+
+			SE12 is the computing labs and the nursing school. This large complex houses many different rooms for the CST program.<br/>
+			<br/>
+			At SE16 is the gym. If you are slacking off at the machines, a certain someone will be very dissapointed at you. Do NOT slack off on the eliptical to watch TV!<br/>
+			The rest of the sector is composed of mostly classrooms and lecture halls.<br/>
+			&nbsp;	
 			</p>
 		</div>
 		<div class="buildingsTable">
