@@ -23,7 +23,7 @@ include("ProtoNavLogged.php");
 			<p>You can contact us about nearly anything - errors, suggestions, questions. On top of those things, we are looking for any information you know that we may not have covered: We want your contribution! If you know any cool shortcuts to get around the school faster, or tips on NOT getting lost --- Submit it to us here and we'll put it up. </p>
 			<div class="secondBody">
 				<div id="leftColumn">
-				<form action="http://webdevbasics.net/scripts/demo.php" id="contact_us" onsubmit="return contact_Validate()">
+				<form action="formmail.php" id="contact_us" onsubmit="return contact_Validate()" method="post">
 					<table class="contact_table">
 						<tr>
 							<th></th> <!---for making 4 columns-->
@@ -62,6 +62,8 @@ include("ProtoNavLogged.php");
 						</td>	
 					</tr>
 					</table>
+					<input type="hidden" name="recipients" value="Comp1536Student@gmail.com" />
+					<input type="hidden" name="good_url" value="thankyou.php" />
 				</form>
 				</div>
 				<div id="rightColumn">
