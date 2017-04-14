@@ -57,7 +57,7 @@ $_SESSION['lastpage'] = 'eachbuildSW9.php';
 	</div>
 	<div class="descriptionArea">
 		<div class="divBorders">
-			<h1>SE9 - Biotechnology / Mechanical Technologies Building</h1>
+			<h1>SW9 - Biotechnology / Mechanical Technologies Building</h1>
 				<p>
 					Mechanical Technologies and Biotechnology building, has a lecture hall, a few classrooms and many warehouse areas for heavy machinery.
 				</p>
