@@ -6,7 +6,7 @@
 <?php include("ProtoNavLogged.php"); ?>
 
 	<div id="mainContent">  <!-- Insert your part of the website here. -->
-			<h1>Thank you! You're comments are submitted!</h1>
+			<h1>Thank you! Your feedback has been received!</h1>
 		</div>  <!--End of mainContent-->
 
 <?php include ("ProtoFooter.php"); ?>
